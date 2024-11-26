@@ -1,5 +1,4 @@
 # Algorithmic-Trading-Simulation
-# Algorithmic Trading Simulation
 
 ## Description:
 This project implements a **basic algorithmic trading engine** using **Java**. The trading engine simulates **buy/sell orders** based on predefined rules and optimizes trade execution using **multithreading** to handle **real-time data feeds** for market analysis. 
